@@ -4,11 +4,15 @@ provides the contact info about a person
 
 
 mongo db 
-db contactlist 
+
+create db contactlist 
+
 with name, email and number as fields
 
-initiation of app
+initiation of app:
 
 npm init
+
 npm install
+
 node server.js
