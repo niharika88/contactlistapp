@@ -27,4 +27,4 @@ Delete -> deletes  the data entry
 
 Clear -> clears the form
 
-Validatins -> to check input data as per constraints 
+Validations -> to check input data as per constraints 
